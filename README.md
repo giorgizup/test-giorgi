@@ -1,2 +1,2 @@
 # test-giorgi
-Test repository for Pre-commit hooks, 
+Test repository for Pre-commit hooks.
